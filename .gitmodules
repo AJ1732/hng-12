@@ -7,3 +7,6 @@
 [submodule "hng-12--stage-2"]
 	path = hng-12--stage-2
 	url = https://github.com/AJ1732/hng-12--stage-2
+[submodule "hng-12--stage-3"]
+	path = hng-12--stage-3
+	url = https://github.com/AJ1732/hng-12--stage-3
